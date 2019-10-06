@@ -1,1 +1,1 @@
-Setting up house keeping items. Please stay tuned. More information follows.
+[![Build Status] (https://api.travis-ci.org/prathap2k/thinkerbox-tutorials.svg?branch=dev)](https://api.travis-ci.org/prathap2k/thinkerbox-tutorials.svg?branch=dev)
